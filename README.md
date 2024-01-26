@@ -22,14 +22,15 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/Iq0mzL8' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![image](app/src/main/res/drawable/helloworld.gif)
 
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
 ## Notes
 
 ### Describe any challenges encountered while building the app.
-#### The app tutorial was simple to follow and I did not encounter any challenges related to the app. When sharing my repo to Github I did have to perform the extra step of creating a Github token. This my be due to the way I have linked my Android Studio to Github, but I'm not certain. 
+* The app tutorial was simple to follow and I did not encounter any challenges related to the app. When sharing my repo to Github I did have to perform the extra step of creating a Github token. This my be due to the way I have linked my Android Studio to Github, but I'm not certain. 
+* Adding the GIF image to this README caused some issues. To overcome, I added the GIF as an asset rather than a link to the image source. 
 
 ## License
 
